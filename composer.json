@@ -1,0 +1,13 @@
+{
+    "name": "hexlet/php-project-lvl1",
+    "authors": [
+        {
+            "name": "sanyok",
+            "email": "sanyok4545@gmail.com"
+        }
+    ],
+    "bin": [
+    	"bin/brain-games"
+    ],
+    "require": {}
+}
