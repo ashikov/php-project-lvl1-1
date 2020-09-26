@@ -6,6 +6,7 @@
             "email": "sanyok4545@gmail.com"
         }
     ],
+    "license": "MIT",
     "bin": [
     	"bin/brain-games"
     ],
